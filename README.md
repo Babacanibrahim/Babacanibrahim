@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hello! I'm İbrahim Babacan
 
-<!--
-**Babacanibrahim/Babacanibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a 3rd-year Computer Engineering student.  
+🎯 I develop full-stack applications with a focus on backend development.  
+🚀 I'm experienced in building real-world projects using React and .NET.  
+📚 Passionate about developing systems for book management, authentication, and CRUD operations.
 
-Here are some ideas to get you started:
+## 🧰 Technologies I Use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ASP.NET Core
+- Entity Framework
+- React.js
+- Vite
+- MSSQL
+- Git & GitHub
+
+## 📌 Featured Projects
+
+🔹 [LibraryApp - Frontend (React)](https://github.com/Babacanibrahim/libraryapp-frontend)  
+🔹 [LibraryApp - Backend (.NET)](https://github.com/Babacanibrahim/libraryapp-backend)
+
+## 📫 Contact Me
+
+- LinkedIn: www.linkedin.com/in/20ibrahimbabacan20
+- Email: babacan-1907@outlook.com.tr 
