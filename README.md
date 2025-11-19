@@ -1,101 +1,78 @@
-🚀 Hello! I'm İbrahim Babacan
+# 🚀 Hello! I'm **İbrahim Babacan**
 
-🧑‍💻 Aspiring Software Developer | 4th Year Computer Engineering Student
+🧑‍💻 **Aspiring Software Developer | 4th Year Computer Engineering Student**  
+I am a 4th-year Computer Engineering student at **Pamukkale University**. My projects primarily focus on **Backend architectures**, where I design scalable and sustainable systems, with a strong emphasis on **Python (Django)** and **C# (.NET Core)**.  
+I leverage my theoretical knowledge and practical experience to implement robust, scalable, and secure applications. I am also proficient in **full-stack development**, capable of implementing end-to-end solutions.
 
-I am a 4th-year Computer Engineering student at Pamukkale University. My projects primarily focus on Backend architectures, where I design scalable and sustainable systems, with a strong emphasis on Python (Django) and C# (.NET Core). I leverage my theoretical knowledge and practical experience to implement robust, scalable, and secure applications. I am highly proficient in full-stack development, capable of implementing end-to-end solutions.
+---
 
-💡 Areas of Focus and Technical Proficiencies
+## 💡 Areas of Focus and Technical Proficiencies
 
-Category
+### **🛠️ Backend & Core**
+- **Technologies:** Python (Django), C# (.NET Core), Java, Data Structures  
+- **Description:** Developing secure and high-performance backend systems and APIs.
 
-Technologies & Concepts
+### **🗄️ Database**
+- **Technologies:** MSSQL, SQL, Relational Design  
+- **Description:** Expertise in relational database design, management, and optimization.
 
-Description
+### **🎨 Frontend**
+- **Technologies:** React.js, Vite, Bootstrap  
+- **Description:** Building modern, responsive, and user-centric interfaces.
 
-Backend & Core
+### **📐 Development Practices**
+- **Concepts:** OOP, Design Patterns, RESTful Services  
+- **Description:** Applying best practices for maintainable and efficient code.
 
-Python (Django), C# (.NET Core), Java, Data Structures
+### **🧰 Tools**
+- **Technologies:** Git & GitHub, VS Code  
+- **Description:** Proficient in version control and collaborative development.
 
-Developing secure and high-performance backend systems and APIs.
+---
 
-Database
+## 📌 Featured Projects
 
-MSSQL, SQL, Relational Design
+### **1. Django Article Management System (Backend Focused)**
+- **Description:** A backend-focused Content Management System (CMS) enabling article creation, editing, and publishing.  
+- **Focus:** Django ORM, Custom User Authentication, Robust CRUD, API Design  
+- **Technologies:** Python, Django, HTML/CSS  
+- **Code:** [Django Articles App](https://github.com/Babacanibrahim/django-articles-app)
 
-Expertise in relational database design, management, and optimization for business logic.
+---
 
-Frontend
+### **2. Finance Tracker Application (Full-Stack)**
+- **Description:** A full-stack personal finance management tool developed during my internship. Includes income/expense tracking, budgeting, reporting, and secure data handling.  
+- **Technologies:** C# (.NET) / Python (Backend), Bootstrap (Frontend), SQL  
+- **Code:** [Finance Tracker Application](https://github.com/Babacanibrahim/finance-tracker)
 
-React.js, Vite, Bootstrap
+---
 
-Building modern, responsive, and user-centric interfaces.
+### **3. Personal Portfolio Website (Full-Stack)**
+- **Description:** A professional portfolio website showcasing skills, projects, and experience.  
+- **Focus:** Modern UI/UX, responsive layout, backend service integration (contact forms, data handling)  
+- **Technologies:** React.js / Bootstrap (Frontend), *[Backend Technology]*  
+- **Code:** [Personal Portfolio Website](https://github.com/Babacanibrahim/portfolio)
 
-Development Practices
+---
 
-OOP, Design Patterns, RESTful Services
+## 💼 Experience and Certifications
 
-Applying best practices for maintainable and efficient code.
+- **Internship – Kodpit Software Technologies**  
+  Full-Stack Development focusing on business application logic.
 
-Tools
+- **Internship – SOCAR Turkey**  
+  Experience with corporate IT processes and enterprise systems.
 
-Git & GitHub, VS Code
+---
 
-Proficient in version control and collaborative development practices.
+## 📫 Get in Touch
 
-📌 Featured Projects
+| Platform | Link |
+|---------|------|
+| **LinkedIn** | https://linkedin.com/in/20ibrahimbabacan20 |
+| **Email** | babacan-1907@outlook.com.tr |
 
-These projects showcase my capabilities across backend, full-stack, and content management domains.
+---
 
-1. Django Article Management System (Backend Focused)
-
-Description: A backend-focused Content Management System (CMS) developed with the Django framework, allowing users to create, edit, and publish articles.
-
-Focus: Django ORM, User Authentication (Custom Users), Robust CRUD Operations, API Design.
-
-Technologies: Python, Django, HTML/CSS.
-
-Code: [GitHub Project Link] (Please insert link here.)
-
-2. Finance Tracker Application (Full-Stack)
-
-Description: A full-stack application developed during my internship to enable personal finance management. It includes features for income/expense tracking, budgeting, detailed reporting, and secure data handling.
-
-Technologies: C# (.NET)/Python (Backend), Bootstrap (Frontend), SQL.
-
-Code: [GitHub Project Link] (Please insert link here.)
-
-3. Personal Portfolio Website (Full-Stack)
-
-Description: A full-stack personal website serving as a professional hub to showcase my technical skills, projects, and professional experience.
-
-Focus: Modern interface design, responsive layout, backend service integration for contact forms/data.
-
-Technologies: React.js / Bootstrap (Frontend), [Please insert backend technology used].
-
-Live Site: [Insert Portfolio URL Here]
-
-Code: [GitHub Project Link] (Please insert link here.)
-
-💼 Experience and Certifications
-
-Internship: Kodpit Software Technologies (Full-Stack Development, focusing on business application logic).
-
-Internship: SOCAR Turkey (Corporate IT Processes, gaining hands-on experience with enterprise systems).
-
-Certifications: Professional development certificates focused on .NET and Python from Udemy and BTK Academy.
-
-📫 Get in Touch
-
-Platform
-
-Link
-
-LinkedIn
-
-linkedin.com/in/20ibrahimbabacan20
-
-Email
-
-babacan-1907@outlook.com.tr
-
-I am actively seeking opportunities to apply my backend development skills in a challenging environment.
+I am actively seeking opportunities to apply my backend development skills in a challenging environment.  
+Feel free to reach out! 🚀
