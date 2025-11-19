@@ -55,16 +55,6 @@ I leverage my theoretical knowledge and practical experience to implement robust
 
 ---
 
-## 💼 Experience and Certifications
-
-- **Internship – Kodpit Software Technologies**  
-  Full-Stack Development focusing on business application logic.
-
-- **Internship – SOCAR Turkey**  
-  Experience with corporate IT processes and enterprise systems.
-
----
-
 ## 📫 Get in Touch
 
 | Platform | Link |
