@@ -1,68 +1,79 @@
-# 🚀 Hello! I'm **İbrahim Babacan**
+# 🚀 Hello World! I'm **Ibrahim Babacan**
 
-🧑‍💻 **Aspiring Software Developer | 4th Year Computer Engineering Student**  
-I am a 4th-year Computer Engineering student at **Pamukkale University**. My projects primarily focus on **Backend architectures**, where I design scalable and sustainable systems, with a strong emphasis on **Python (Django)** and **C# (.NET Core)**.  
-I leverage my theoretical knowledge and practical experience to implement robust, scalable, and secure applications. I am also proficient in **full-stack development**, capable of implementing end-to-end solutions.
+<p align="left">
+  <a href="https://linkedin.com/in/20ibrahimbabacan20"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:babacan-1907@outlook.com.tr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+🧑‍💻 **Computer Engineer | Secure Backend Architecture & Cybersecurity Enthusiast**
+
+I am a 4th-year Computer Engineering student at **Pamukkale University**. My expertise lies at the intersection of designing robust, scalable **Backend Architectures** and implementing **Cybersecurity (CyberOps & SOC)** principles. I specialize in building data-secure applications using **Python** and **C#**, while actively managing IT infrastructure and leading technical teams in the ecosystem.
 
 ---
 
-## 💡 Areas of Focus and Technical Proficiencies
+## 🛠️ Technical Ecosystem & Skills
 
-### **🛠️ Backend & Core**
-- **Technologies:** Python (Django), C# (.NET Core), Java, Data Structures  
-- **Description:** Developing secure and high-performance backend systems and APIs.
+### **Languages & Core**
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 
-### **🗄️ Database**
-- **Technologies:** MSSQL, SQL, Relational Design  
-- **Description:** Expertise in relational database design, management, and optimization.
+### **Frameworks & Web Technologies**
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361dafb)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
+`RESTful APIs` `JWT Authentication` `SQLAlchemy` `OOP & Data Structures`
 
-### **🎨 Frontend**
-- **Technologies:** React.js, Vite, Bootstrap  
-- **Description:** Building modern, responsive, and user-centric interfaces.
-
-### **📐 Development Practices**
-- **Concepts:** OOP, Design Patterns, RESTful Services  
-- **Description:** Applying best practices for maintainable and efficient code.
-
-### **🧰 Tools**
-- **Technologies:** Git & GitHub, VS Code  
-- **Description:** Proficient in version control and collaborative development.
+### **Cybersecurity & Infrastructure**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+`SOC Operations` `Threat Analysis` `Incident Response` `Network Security` `Wireshark` `Cisco Packet Tracer`
 
 ---
 
 ## 📌 Featured Projects
 
-### **1. Django Article Management System (Backend Focused)**
-- **Description:** A backend-focused Content Management System (CMS) enabling article creation, editing, and publishing.  
-- **Focus:** Django ORM, Custom User Authentication, Robust CRUD, API Design  
-- **Technologies:** Python, Django, HTML/CSS  
-- **Code:** [Django Articles App](https://github.com/Babacanibrahim/django-articles-app)
+### **1. ChainCheck 🛡️ (Software Supply Chain Security Analyzer)**
+* **Description:** A proactive security tool designed to map repositories, analyze transitive dependencies, and scan for anomalous code patterns to detect supply chain vulnerabilities.
+* **Tech Stack:** Python, Security APIs, AST Analysis
+* **Repository:** [🔗 Source Code](https://github.com/Babacanibrahim/ChainCheck)
+
+### **2. Scratch Quantum 🌌 (B.S. Graduation Thesis)**
+* **Description:** An interactive, block-based quantum programming education platform that makes complex quantum algorithms accessible, visual, and engaging for children.
+* **Tech Stack:** Python, Qiskit, React, Vite
+* **Status:** Active Deployment & Development
+
+### **3. Full-Stack Finance Tracker 📊 (Secure Financial System)**
+* **Description:** A secure personal finance tracker focused on data encryption and defense against SQL Injection. Features end-to-end income/expense categorization, dynamic budget constraints, and financial analytics.
+* **Tech Stack:** Python, Flask, SQLAlchemy, SQL, Bootstrap
+* **Repository:** [🔗 Source Code](https://github.com/Babacanibrahim/finance-tracker)
 
 ---
 
-### **2. Finance Tracker Application (Full-Stack)**
-- **Description:** A full-stack personal finance management tool developed during my internship. Includes income/expense tracking, budgeting, reporting, and secure data handling.  
-- **Technologies:** C# (.NET) / Python (Backend), Bootstrap (Frontend), SQL  
-- **Code:** [Finance Tracker Application](https://github.com/Babacanibrahim/finance-tracker)
+## 💼 Leadership & Professional Footprint
+
+* 🌐 **T3 Foundation:** Currently serving as the *IT, Digital Infrastructure, and Operations Unit Manager*, leading cross-functional teams and orchestrating large-scale technology event operations.
+* 🛡️ **Cisco Certified:** *CyberOps Associate* & *CCNA (Introduction to Networks)* verified, anchoring my software development with enterprise-level security vision.
 
 ---
 
-### **3. Personal Portfolio Website (Full-Stack)**
-- **Description:** A professional portfolio website showcasing skills, projects, and experience.  
-- **Focus:** Modern UI/UX, responsive layout, backend service integration (contact forms, data handling)  
-- **Technologies:** React.js / Bootstrap (Frontend), *[Backend Technology]*  
-- **Code:** [Personal Portfolio Website](https://github.com/Babacanibrahim/portfolio)
+## 📊 GitHub Metrics & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Babacanibrahim&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Ibrahim's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Babacanibrahim&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
 ---
 
-## 📫 Get in Touch
+## 📫 Let's Connect!
 
-| Platform | Link |
-|---------|------|
-| **LinkedIn** | https://linkedin.com/in/20ibrahimbabacan20 |
-| **Email** | babacan-1907@outlook.com.tr |
+* **LinkedIn:** [linkedin.com/in/20ibrahimbabacan20](https://linkedin.com/in/20ibrahimbabacan20)
+* **Email:** [babacan-1907@outlook.com.tr](mailto:babacan-1907@outlook.com.tr)
+* **Location:** Denizli, Turkey
 
----
-
-I am actively seeking opportunities to apply my backend development skills in a challenging environment.  
-Feel free to reach out! 🚀
+*I am actively looking for software engineering roles focused on Secure Backend Development and Cybersecurity solutions. Let's build something secure together!* 🚀
